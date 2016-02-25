@@ -4,7 +4,8 @@ An important part of RNA-Seq Analysis is finding out the names of genes and func
 
 This tutorial demonstrates another differential expression package in R, called Gage, that provides some insights into affected pathways using Pathview in R.
 
-###During this session you will learn about:
+-----------------
+###Learning Objectives:
 
 1. Use of GAGE package to do pathway analysis
 
@@ -16,6 +17,9 @@ This tutorial demonstrates another differential expression package in R, called 
 
 3. Use of Pathview to visualize the perturbed KEGG pathways
 
+
+
+--------------
 This tutorial was initially developed by Asela Wijeratne, at Ohio State University as part of the NGS Advanced Bioinformatics Training Course at Kellogg Biological Station, Michigan Statue University, 2015.
 
 The materials have been updated by Adelaide Rhodes, Ph.D. for the Winter 2016 class on Differential Expression Analysis for RNA-Seq.
