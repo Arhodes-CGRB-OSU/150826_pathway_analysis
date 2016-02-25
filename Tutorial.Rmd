@@ -53,9 +53,8 @@ head(rnaseq_data)
 ````
 
 
-This is how they are labelled:
+This is where the samples came from in the NCBI:
 
-```
 GEO:GSM613465: wild type samples
         SRR070570: replicate 1
         SRR070571: replicate 2
@@ -63,7 +62,6 @@ GEO:GSM613466: hy5 mutant samples
         SRR070572: replicate 1
         SRR070573: replicate 2
 
-```
 
 Rename the columns so we can identify them easily.
 
