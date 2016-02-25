@@ -45,20 +45,6 @@ rnaseq_data <- read.table("rnaseq_data.txt",
                           header=TRUE)
 ```
 
-#####If above code work, ignore the rest of the next part of the code. 
-
-You can also get the data from the following link and save it in the ```Desktop/pathway_analysis``` folder.
-
-http://bit.ly/150826_rnaseqdata
-
-Read the data into R using the following code:
-
-```
-rnaseq_data <- read.table("rnaseq_data.txt",
-                          header=TRUE)
-                          
-```
-
 Let's look at the head of the data set.
 
 ```
