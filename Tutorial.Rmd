@@ -7,15 +7,29 @@ Install required packages:
 ```
 source("http://bioconductor.org/biocLite.R")
 biocLite("pathview")
+
+# wait to make sure it loaded before the next command
+
 biocLite("edgeR")
+
+# wait to make sure it loaded before the next command
+
 biocLite("gage")
+
+# wait to make sure it loaded before the next command
 
 ```
 Load required packages
 
 ```
 library(edgeR)
+
+# wait to make sure it loaded before the next command
+
 library(gage)
+
+# wait to make sure it loaded before the next command
+
 library(pathview)
 
 ```
